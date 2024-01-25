@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWID Spoofer", "HWID Spoofer\HWID Spoofer.csproj", "{1397263E-75A3-40B7-A7CC-2FA9C5A7AA69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1397263E-75A3-40B7-A7CC-2FA9C5A7AA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1397263E-75A3-40B7-A7CC-2FA9C5A7AA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1397263E-75A3-40B7-A7CC-2FA9C5A7AA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1397263E-75A3-40B7-A7CC-2FA9C5A7AA69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD1F6E67-573E-4FB1-A722-93454BE52AEA}
+	EndGlobalSection
+EndGlobal
